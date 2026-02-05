@@ -53,7 +53,7 @@ A standard for asynchronous stream with non-blocking backpressure
 
 ## Backpressure
 
-The consmer controls how fast te producer sends data 
+The consmer controls how fast the producer sends data 
 
 why? 
 
